@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0c4bd3"],{"3bb0":function(t,e,n){"use strict";n.r(e);var a=function(){var t=this,e=t.$createElement,n=t._self._c||e;return n("div",{staticClass:"bg-white font-family-karla h-screen"},[t._t("default")],2)},c=[],l=(n("becf"),{name:"Auth-Layout"}),u=l,s=n("2877"),i=Object(s["a"])(u,a,c,!1,null,null,null);e["default"]=i.exports}}]);
+//# sourceMappingURL=chunk-2d0c4bd3.b0957a1b.js.map
